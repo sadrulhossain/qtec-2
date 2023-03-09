@@ -1,5 +1,5 @@
 # Qtec Problem-2
- Problem regarding finding the total number of appearance of a given pattern within a given string.
+** Problem regarding finding the total number of appearance of a given pattern within a given string.
 =============================================================================================
 1. first we receive the string and pattern and set an pattern appearance counter.
 2. now we can iterate through each index of the string and consider that index as starting index for pattern matching.
